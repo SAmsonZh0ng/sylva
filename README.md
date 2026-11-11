@@ -1,6 +1,6 @@
 # Sylva
 
-First published release of Sylva, an EE1111A automatic plant-care product concept.
+First published release of Sylva, an automatic plant-care product concept.
 
 **Live site: https://samsonzh0ng.github.io/sylva/**
 
